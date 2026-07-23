@@ -1,36 +1,39 @@
-# Georg Schilin — Frontend / UI Engineer
+<div align="center">
 
-I build polished, high-performance web interfaces and developer tools.
+# Georg Schilin
 
-My focus is React, TypeScript, UI engineering, browser behaviour, performance,
-design systems, and interaction quality.
+### Frontend & UI Engineer
 
-## Selected work
+I build browser-native products where interaction, visual detail,
+and engineering quality are equally important.
 
-- [Color Storage](https://github.com/voodoofugu/color-storage)
-  A browser-based tool for picking, copying and organizing colour palettes.
+[Portfolio](…) · [Telegram](https://t.me/voodoofugu) · [Email](mailto:…)
 
-- [demo-workbench](https://github.com/voodoofugu/demo-workbench)
-  A React workbench for browsing and opening project demos.
+</div>
 
-- [styled-atom](https://github.com/voodoofugu/styled-atom)
-  A CSS-in-JS React library.
+<br />
 
-- [morphing-scroll](https://github.com/voodoofugu/morphing-scroll)
-  A React library for scroll-driven UI interactions.
+> I’m drawn to interfaces that need more than a component library:
+> tools with real workflows, deliberate interaction, and behaviour
+> that still feels right when the browser gets involved.
 
-- [keytask](https://github.com/voodoofugu/keytask)
-  Small task controller for timeout and requestAnimationFrame work.
+<br />
 
-## What I care about
+## Focus
 
-- Interfaces that feel deliberate, not merely functional
-- Reliable browser behaviour and accessible interaction
-- Rendering and runtime performance
-- Maintainable TypeScript and small, explicit APIs
-- Developer tooling that makes product work easier
+|                       |                                                                                                                                   |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| **UI engineering**    | Interaction-heavy interfaces, thoughtful states, responsive constraints, and the small details that make a product feel finished. |
+| **Browser behaviour** | Rendering, input, scrolling, layout, animation, and the practical edge cases behind a reliable interface.                         |
+| **Frontend systems**  | React and TypeScript architecture, reusable UI primitives, developer tooling, and APIs that stay small and understandable.        |
 
-## Links
+<br />
 
-- Telegram: [@voodoofugu](https://t.me/voodoofugu)
-- Email: voodoofugu@gmail.com
+## Now
+
+Building and exploring tools for interface work, colour workflows,
+and developer experience.
+
+<br />
+
+<sub>Open to frontend and UI engineering opportunities.</sub>
