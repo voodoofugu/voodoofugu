@@ -2,8 +2,6 @@
 
 ### Frontend & UI Engineer
 
-React, TypeScript, browser interfaces, and developer tools.
-
 ## Focus
 
 **UI engineering** · interaction-heavy interfaces and polished product details  
