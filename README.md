@@ -1,6 +1,6 @@
 # Georg Schilin
 
-**Frontend & UI Engineer**
+**Designer & UI Engineer**
 
 ## Focus
 
